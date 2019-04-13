@@ -4,13 +4,7 @@ if  speed > 60
 else
 	return false
 end
-
- if speed < 40
-	 return true
-else
-	return false
 end
-end 
 
 
 
